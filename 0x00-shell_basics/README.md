@@ -7,4 +7,5 @@ My Readme in Shell Basics : 19 Scripts
 4-listmorefiles Script : In this script we use the 'ls -la' to display current directory contents, including hidden files starting with (.). 
 5-listfilesdigitonly Script : In this script we use -ls -lan' to display current directory contents only with digit.
 6-firstdirectory Script : In This script we use the command 'mkdir /tmp/my_first_directory' to create a directory named my_first_directory in the /tmp/ directory.
-7-movethatfile Script : On this script we use the command 'mv /tmp/betty /tmp/my_first_directory/' to move the the file betty from /tmp/ to /tmp/my_first_directory.
+7-movethatfile Script : In this script we use the command 'mv /tmp/betty /tmp/my_first_directory/' to move the the file betty from /tmp/ to /tmp/my_first_directory.
+8-firstdelete Script : In this Script we use the command 'rm /tmp/my_first_directory/betty' to Delete the file betty.
