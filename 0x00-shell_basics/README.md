@@ -4,3 +4,4 @@ My Readme in Shell Basics : 19 Scripts
 1-listit Script : In this we use the 'ls' command to display the contents list of our  current directory.  
 2-bring me home Sript : In this script we use the 'cd ~' command to change the working directory to the user’s home directory.
 3-listfiles Script : In this script we use the 'ls -l' command to display a detailed list of the files and directories in the current working directory, including their file permissions, owner, size, and modification time.
+4-listmorefiles Script : In this script we use the 'ls -la' to display current directory contents, including hidden files starting with '.'. 
