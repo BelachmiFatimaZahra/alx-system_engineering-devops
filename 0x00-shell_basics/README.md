@@ -13,3 +13,5 @@ My Readme in Shell Basics : 19 Scripts
 10-back Script : We use yhe command 'cd -' to change the working directory to the previous one.
 11-lists Script : We use the command 'ls -la . .. /boot' to list all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 12-file_type Script : we use the command 'file /tmp/iamafile' to print the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
+13-symbolic_link Script : we use the command 'ln -s /bin/ls __ls__' to create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+14-copy_html Script : we use yhe command 'cp -un *.html ../' to copy all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
