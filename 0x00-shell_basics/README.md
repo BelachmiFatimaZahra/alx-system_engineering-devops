@@ -9,3 +9,4 @@ My Readme in Shell Basics : 19 Scripts
 6-firstdirectory Script : In This script we use the command 'mkdir /tmp/my_first_directory' to create a directory named my_first_directory in the /tmp/ directory.
 7-movethatfile Script : In this script we use the command 'mv /tmp/betty /tmp/my_first_directory/' to move the the file betty from /tmp/ to /tmp/my_first_directory.
 8-firstdelete Script : In this Script we use the command 'rm /tmp/my_first_directory/betty' to Delete the file betty.
+9-firstdirdeletion Script : In this Script we use The command 'rm -r /tmp/my_first_directory' to delete the directory my_first_directory that is in the /tmp directory.
