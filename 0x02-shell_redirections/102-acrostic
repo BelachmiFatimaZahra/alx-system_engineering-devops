@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d " " <(cut -c1 acrostic.txt) <(tail -n +2 acrostic.txt) | tr -d '\t' | tr ' ' '\n'
+cut -c 1 | paste -s -d ' '
