@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "grkg gb rapbqr" | tr 'N-ZA-Mn-za-m' 'A-Za-z'
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
